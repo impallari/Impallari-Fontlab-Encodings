@@ -1,4 +1,4 @@
-Impallari-Fontlab-Encodings
+Impallari Fontlab Encodings
 ===========================
 
-Encoding Files for FontLab
+A few encoding files for FontLab.
